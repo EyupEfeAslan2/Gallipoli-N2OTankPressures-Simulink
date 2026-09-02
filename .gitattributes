@@ -1,0 +1,6 @@
+*.slx  binary -merge -diff
+*.mdl  binary -merge -diff
+*.mat  binary -merge -diff
+*.m    text
+*.md   text
+*.csv  text

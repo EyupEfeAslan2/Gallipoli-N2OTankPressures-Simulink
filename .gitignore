@@ -1,0 +1,11 @@
+slprj/
+sccprj/
+codegen/
+*.slxc
+*.autosave
+*.asv
+*.m~
+*.mex*
+*.mat
+Thumbs.db
+.DS_Store
